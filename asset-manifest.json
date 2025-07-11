@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/truck-booking/static/css/main.e6c13ad2.css",
+    "main.js": "/truck-booking/static/js/main.1b538e5c.js",
+    "static/js/453.630d3d02.chunk.js": "/truck-booking/static/js/453.630d3d02.chunk.js",
+    "static/media/cover.jpg": "/truck-booking/static/media/cover.c648e83fcb1432a3d437.jpg",
+    "static/media/truckimg3.jpg": "/truck-booking/static/media/truckimg3.5738bcb89bd5ae8def3e.jpg",
+    "static/media/truckimg1.jpg": "/truck-booking/static/media/truckimg1.41c1040fc5135e03ef76.jpg",
+    "static/media/truckimg2.jpg": "/truck-booking/static/media/truckimg2.6d3ea27153171e125d35.jpg",
+    "index.html": "/truck-booking/index.html",
+    "main.e6c13ad2.css.map": "/truck-booking/static/css/main.e6c13ad2.css.map",
+    "main.1b538e5c.js.map": "/truck-booking/static/js/main.1b538e5c.js.map",
+    "453.630d3d02.chunk.js.map": "/truck-booking/static/js/453.630d3d02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1b538e5c.js"
+  ]
+}

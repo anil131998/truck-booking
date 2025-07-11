@@ -8,8 +8,10 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 
 function App() {
+  // Use basename only in production (GitHub Pages)
+  const basename = process.env.NODE_ENV === 'production' ? '/truck-booking' : '';
   return (
-    <Router basename="/truck-booking">
+    <Router basename={basename}>
       <CssBaseline />
       <Box
         sx={{
